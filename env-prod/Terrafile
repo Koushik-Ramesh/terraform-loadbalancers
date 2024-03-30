@@ -1,0 +1,3 @@
+vpc:
+    source:  "https://github.com/Koushik-Ramesh/tf-module-alb.git?ref=main"
+    version: "prod"
